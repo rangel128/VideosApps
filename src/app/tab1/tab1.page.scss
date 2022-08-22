@@ -1,4 +1,20 @@
-h1{
-  font-weight: bold;
-  color: red;
+ion-item{
+
+  --padding-start: 10px;
+  --inner-padding-end: 7px;
+
+  h1{
+    font-weight: bold;
+    font-size: 0.8rem;
+  }
+
+  p{
+    font-weight: bold;
+    font-size: 0.6rem;
+  }
+  ion-thumbnail{
+    margin-inline-end: 10px;
 }
+}
+
+
